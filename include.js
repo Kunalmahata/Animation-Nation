@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Books',
+    pageLink: './Art/books/index.html',
+    imageLink: './Art/books/trance.gif',
+    author: 'kunalmahata',
+    githubLink: 'https://github.com/kunalmahata'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
